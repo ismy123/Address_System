@@ -1,0 +1,21 @@
+﻿  MFC_AddressDlg.cpp
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(282): error C2664: 'BOOL CStdioFile::Open(LPCTSTR,UINT,ATL::CAtlTransactionManager *,CFileException *)': 인수 1을(를) 'const char [13]'에서 'LPCTSTR'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(282): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(329): error C2664: 'int CWnd::MessageBoxW(LPCTSTR,LPCTSTR,UINT)': 인수 1을(를) 'const char [21]'에서 'LPCTSTR'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(329): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(338): error C2664: 'int sscanf(const char *const ,const char *const ,...)': 인수 1을(를) 'CString'에서 'const char *const '(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(338): note: 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(339): error C2664: 'int _wtoi(const wchar_t *)': 인수 1을(를) 'char [256]'에서 'const wchar_t *'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(339): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(341): error C2664: 'int CListCtrl::InsertItem(UINT,int,LPCTSTR,UINT,UINT,int,LPARAM)': 인수 2을(를) 'char [256]'에서 'LPCTSTR'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(341): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(342): error C2664: 'BOOL CListCtrl::SetItemText(int,int,LPCTSTR)': 인수 3을(를) 'char [256]'에서 'LPCTSTR'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(342): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(343): error C2664: 'BOOL CListCtrl::SetItemText(int,int,LPCTSTR)': 인수 3을(를) 'char [256]'에서 'LPCTSTR'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(343): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(344): error C2664: 'BOOL CListCtrl::SetItemText(int,int,LPCTSTR)': 인수 3을(를) 'char [256]'에서 'LPCTSTR'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(344): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(345): error C2664: 'BOOL CListCtrl::SetItemText(int,int,LPCTSTR)': 인수 3을(를) 'char [256]'에서 'LPCTSTR'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(345): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(346): error C2664: 'BOOL CListCtrl::SetItemText(int,int,LPCTSTR)': 인수 3을(를) 'char [256]'에서 'LPCTSTR'(으)로 변환할 수 없습니다.
+  c:\uchae\mfc_address\mfc_address\mfc_addressdlg.cpp(346): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
